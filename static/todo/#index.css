@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    width: 50vw;
+    background-size: auto;
+    background-image:"ravi"
+}
+.container > ul{
+    display: inline-block;
+}
+.heading{
+color: blue;
+font-family: "roboto";
+font-weight: bold;
+font-size: 50px;
+}
+.button-style{
+background-color: blue;
+width: 150px;
+border-radius: 20px;
+color: aliceblue;
+text-align: center;
+border-style: dashed;
+border-width: 2px;
+
+}
